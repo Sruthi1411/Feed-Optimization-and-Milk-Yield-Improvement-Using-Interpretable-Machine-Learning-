@@ -107,17 +107,16 @@ These techniques were used to analyze feature importance and provide interpretab
 # Repository Structure
 
 ```bash
-├── notebooks/
-│   ├── milk_yield_prediction_xai.ipynb
-│   └── milk_yield_optimization.ipynb
+
+├── milk_yield_prediction_xai.ipynb
+│── milk_yield_optimization.ipynb
 │
 ├── figures/
 │   └── workflow.png
 │
 ├── milk_yield_prediction_dataset.csv
 ├── README.md
-├── requirements.txt
-└── research_paper.pdf
+└── paper.pdf
 ```
 
 ---

@@ -39,7 +39,7 @@ The project uses a dairy farming dataset containing milk production, feed compos
 Dataset file included in the repository:
 
 ```text
-milk_yield_prediction_dataset.csv
+dairy_farm_milk_yield_dataset.csv
 ```
 
 ---
